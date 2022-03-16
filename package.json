@@ -1,0 +1,5 @@
+{
+  "name": "cubase-remote-midi-extensions",
+  "version": "0.1.0-alpha",
+  "description": "Extension library for Cubase Midi Remote"
+}
